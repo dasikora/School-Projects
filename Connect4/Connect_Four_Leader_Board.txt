@@ -1,0 +1,6 @@
+Format: User/totalgames/wins 
+dylan/15/10
+john/9/4
+cj/3/0
+mark/5/3
+end
